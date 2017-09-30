@@ -1,0 +1,27 @@
+.instructionOverlay{
+    font-size: 50px;
+    line-height: 50px;
+    position: absolute;
+    top: calc(50vh - 50px);
+    text-align: center;
+    width: 100vw;
+}
+
+.arrowInstructions{
+    font-size: 25px;
+    line-height: 25px;
+    text-align: right;
+    padding-right: 10px;
+}
+
+.canvas{
+    border: 1px solid black;
+    margin: auto;
+    position: relative;
+    display: block;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
